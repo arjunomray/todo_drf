@@ -13951,3 +13951,4 @@ db.sqlite3
 .venv/lib/python3.10/site-packages/typing_extensions-4.7.1.dist-info/METADATA
 .venv/lib/python3.10/site-packages/typing_extensions-4.7.1.dist-info/RECORD
 .venv/lib/python3.10/site-packages/typing_extensions-4.7.1.dist-info/WHEEL
+.env
